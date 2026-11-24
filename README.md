@@ -13,16 +13,27 @@ Latest Version Android Studio
 ## ALGORITHM:
 
 1.Start the application.
+
 2.Create the first Activity with an EditText to enter a number.
+
 3.Create a Button to calculate the factorial.
+
 4.Initialize the EditText and Button using findViewById().
+
 5.Set an OnClickListener() for the Button.
+
 6.Get the number entered by the user.
+
 7.Create an Explicit Intent to navigate from MainActivity to SecondActivity.
+
 8.Pass the entered number using putExtra().
+
 9.Start the SecondActivity using startActivity().
+
 10.Retrieve the number in SecondActivity using getIntent().getIntExtra().
+
 11.Calculate the factorial of the given number.
+
 12.Display the factorial result using TextView.
 
 ## PROGRAM:
